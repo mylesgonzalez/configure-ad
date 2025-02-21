@@ -19,10 +19,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Deploy Virtual Machines in Azure
+- Step 2: Use server managaer to configure Active Directory
+- Step 3: Create a user and assign permissions
+- Step 4: Manage security protocols using Group Policy
 
 <h2>Deployment and Configuration Steps</h2>
 
